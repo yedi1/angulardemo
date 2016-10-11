@@ -1,0 +1,17 @@
+{
+  "name": "learn-angular",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "yedi",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  }
+}
